@@ -180,3 +180,27 @@ If you have any feedback or opportunities, feel free to reach out via LinkedIn.
 
 
 
+## 📊 Before & After – Data Cleaning Evidence
+
+Below are screenshots showing the data before and after cleaning:
+
+### Before Cleaning
+<img src="before-after/Customers_Before.png" width="400">
+<img src="before-after/Exhange_Rate_Before.png" width="400">
+
+### After Cleaning (Pivot & Analysis)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="before-after/Pivot_Chart_1.png" width="300">
+  <img src="before-after/Pivot_Chart_2.png" width="300">
+  <img src="before-after/Pivot_Chart_3.png" width="300">
+  <img src="before-after/Pivot_Chart_4.png" width="300">
+  <img src="before-after/Pivot_Chart_5.png" width="300">
+  <img src="before-after/Pivot_Chart_6.png" width="300">
+  <img src="before-after/Pivot_Chart_7.png" width="300">
+  <img src="before-after/Pivot_Chart_8.png" width="300">
+  <img src="before-after/Pivot_Chart_9.png" width="300">
+
+
+
+
+
